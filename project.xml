@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="TestApp"> 
+    <update appID="DCeSchedulerCall"> 
         <version>3.0.0.0</version> 
         <url>https://1drv.ms/u/s!AjfMImvkjysBgR5PE23mEVkZcf2N</url> 
-        <fileName>TestApp.exe</fileName> 
+        <fileName>DCeSchedulerCall.exe</fileName> 
         <md5>73997095B230583D80E1D34F50C26527</md5>
         <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
+        1. Update test</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
