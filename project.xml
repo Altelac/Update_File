@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="DCeSchedulerCall"> 
+    <update appID="TestApp"> 
         <version>3.0.0.0</version> 
         <url>https://1drv.ms/u/s!AjfMImvkjysBgR5PE23mEVkZcf2N</url> 
         <fileName>DCeSchedulerCall.exe</fileName> 
